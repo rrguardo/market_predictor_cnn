@@ -3,6 +3,8 @@ Softwares tools to predict market movements using convolution neural networks.
 
 The basic idea is encode market data as RGB pixels for train CNN to predict market movements and detect patterns. CNN framework caffe was used.
 
+Good results was observed training the CNN to detect when the price will drop 20 pips in next 60 minutes. In CNN top 10 positions detected in ~7 days, we observe ~70% correct predictions, ~10% incorrect prediction, ~20% neutral predictions (not profit loss).
+
 # Best results:
 
 ## Case sell, undef >20 pips in 60 minutes (direct prob):
