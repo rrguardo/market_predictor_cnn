@@ -1,5 +1,5 @@
 # market_predictor_cnn
-Softwares tools to predict market movements using convolution neural networks.
+Softwares tools to predict market movements using convolutional neural networks.
 
 The basic idea is encode market data as RGB pixels for train CNN to predict market movements and detect patterns. CNN framework caffe was used.
 
