@@ -41,4 +41,4 @@ if inverted profit ~100%, For top 25 (top 50%), we see good accuracy. (non-sense
 
 # Conclusions  
 Case buy, sell, undef >20 pips in 60 minutes (diff prob buy-sell, sell-buy) was the best predictor for SELL positions(60% profit). Profit decrease here to 30% using top 25(50%).
-Case binary buy, sell after 60 minutes, was the best predictor for BUY positions(60% profit rain using top 10 and top 25).
+Case binary buy, sell after 60 minutes, was the best predictor for BUY positions(60% profit remain using top 10 and top 25).
