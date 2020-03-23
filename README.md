@@ -100,3 +100,9 @@ Case buy, sell, undef >20 pips in 60 minutes (diff prob buy-sell, sell-buy) was 
 positions(60% profit). Profit decrease here to 30% using top 25(50%).
 Case binary buy, sell after 60 minutes, was the best predictor for BUY positions(60% profit remain using top
 10 and top 25).
+
+While this reasearch aparently show good result at studied time frame, the best pattern was not observed again.
+And same study at distict time frames change the results. The this ends just as a complex gamble game.
+
+
+
