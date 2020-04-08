@@ -102,7 +102,7 @@ Case binary buy, sell after 60 minutes, was the best predictor for BUY positions
 10 and top 25).
 
 While this reasearch aparently show good result at studied time frame, the best pattern was not observed again.
-And same study at distict time frames change the results. The this ends just as a complex gamble game.
+And same study at distict time frames change the results. Then this ends just as a complex gamble game.
 
 
 
